@@ -7,7 +7,7 @@ Set Up Cmder on windows
 
 ### Cmder Settings
 
-1. Go to the [Cmder site](https://cmder.net/)
+1. Go to the [Cmder site](https://cmder.app/)
 1. Download Cmder (full), unzip, and launch it
 1. Optional but recommended to install Notepad++
 1. Open the menu on the bottom right and go to Settings > Startup > Tasks
