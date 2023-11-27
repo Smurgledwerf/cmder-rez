@@ -33,6 +33,11 @@ powershell:
     additional_pathext: ['.PY']
     executable_fullpath: null
 
+cmder_pwsh:
+    prompt: '> $ '
+    additional_pathext: ['.PY']
+    executable_fullpath: null
+
 pwsh:
     prompt: '> $ '
     additional_pathext: ['.PY']
